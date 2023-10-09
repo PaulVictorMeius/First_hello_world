@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/paul/Exercitii/Git_Projects/First_hello_world/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/hello.dir/src/main.cpp.o -c /home/paul/Exercitii/Git_Projects/First_hello_world/src/main.cpp",
+  "file": "/home/paul/Exercitii/Git_Projects/First_hello_world/src/main.cpp"
+}
+]

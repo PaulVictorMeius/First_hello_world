@@ -1,0 +1,4 @@
+Apples are tasty.
+Apples are great.
+Oranges are good.
+Pears are excelent.
